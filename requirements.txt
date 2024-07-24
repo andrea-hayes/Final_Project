@@ -1,4 +1,4 @@
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-import matplotlib.pyplot as plt
+import requests==2.31.0
+import bs4==4.12.3
+import pandas==2.1.1
+import matplotlib==3.8.0
