@@ -1,4 +1,6 @@
-(double-click here to edit)
+
+
+## Ideas for Final Project
 
 ### Article 
 I found an article titled [Using Data Science to Uncover the Work of Women in Science](https://womenshistory.si.edu/blog/using-data-science-uncover-work-women-science) 
@@ -11,8 +13,6 @@ that were doing scientific work didn't always get the recognition they deserved.
 I always have found population data displayed like this to be fascinating. You get two bits of information, age and gender, in an easy to read graph. I'm interested in graphs 
 that take two points of information and relate them to a value.    
 Image from [Exploring US Census data with visualization](https://walker-data.com/census-r/exploring-us-census-data-with-visualization.html)
-
-(double-click here to edit)
 
 ### Topics of Interest
 + History
@@ -27,8 +27,6 @@ Image from [Exploring US Census data with visualization](https://walker-data.com
 1. [County Population by Race - 2020 Census](https://data.world/amberthomas/county-population-by-race-2020-census)
 2. [2010 State Internet Speeds](https://data.world/chapmanclay/2010-state-internet-speeds)
 3. [2022 Census of Governments, Survey of Public Employment & Payroll](https://www.census.gov/data/datasets/2022/econ/apes/2022.html)
-
-(double-click here to edit)
 
 ### Dataset Table
 
