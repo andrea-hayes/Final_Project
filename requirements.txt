@@ -1,4 +1,4 @@
-import requests==2.31.0
-import bs4==4.12.3
-import pandas==2.1.1
-import matplotlib==3.8.0
+requests==2.31.0
+bs4==4.12.3
+pandas==2.1.1
+matplotlib==3.8.0
